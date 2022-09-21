@@ -3,7 +3,7 @@
 ### Task
 - Create userform which contains login and password for different users. Each user has unique sheet with data which are implemented with offset function.
 ### Code
-- VBA code below:
+- Part of VBA code below:
 
 ````
 Private Sub cmdCancel_Click()
